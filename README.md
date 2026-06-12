@@ -1,147 +1,110 @@
-<h1 align="center">Hey there, I'm Rohit Kumar Pandey 👋</h1>
+<h1 align="center">Hey, I'm Rohit Kumar Pandey 👋</h1>
 
 <p align="center">
-  <b>Fullstack Developer &amp; UI/UX Designer</b> · Building intuitive, end-to-end digital products
-</p>
-
-<p align="center">
-  <a href="mailto:rohitraja229@gmail.com">📧 rohitraja229@gmail.com</a> &nbsp;|&nbsp;
-  📍 Ranchi, Jharkhand
+  <b>UI/UX Designer · Frontend Dev in Progress · AI-Assisted Builder</b><br/>
+  Ranchi, Jharkhand · Available for Remote & Relocation
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **Fullstack Developer** with a strong design foundation — 3+ years of professional experience at **Condigence**, where I've worked at the intersection of UI/UX design and frontend engineering. I design experiences users love, then build them myself, end-to-end.
+I'm a **UI/UX Designer with 3 years of professional experience** at Condigence, where I've designed user-centered digital products — from wireframes and journey maps to high-fidelity Figma prototypes. I care deeply about turning complex requirements into simple, accessible, and beautiful experiences.
 
-My work spans from wireframes and high-fidelity Figma prototypes all the way to Angular frontends backed by Node.js/Express REST APIs. I care deeply about accessibility, clean code, and making complex things feel simple.
-
-- 🔭 Currently building with **Angular 21**, **TypeScript**, **Node.js**, and **Express**
-- 🎨 Designing with **Figma**, **Adobe XD**, and **Illustrator**
-- 🌱 Actively growing my fullstack skills — recently shipped a full **Angular + Express** CRUD application
-- 💼 Open to **freelance**, **remote**, and **full-time** fullstack or UI/UX roles
-- 🤝 Available for **relocation**
-- 🗣️ Languages: **English**, **Hindi**
+Alongside my design work, I'm actively leveling up as a **fullstack developer**, currently learning Angular for frontend with a focus on building AI-powered apps. I work with both Angular and Node.js/Express on personal projects, picking up real-world patterns as I go.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 What I Do Well
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+**Design**
+- End-to-end UI/UX design in **Figma** and **Adobe XD**
+- User research, wireframing, prototyping, and usability testing
+- Responsive layouts, design systems, typography, and color theory
+- Accessibility-focused design — improved navigation clarity by 30% on NeerSeva
+- Agile workflow, design handoff, and cross-team collaboration with developers & PMs
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### Tools & Workflow
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-00ADD8?style=for-the-badge&logo=jira&logoColor=white)
+**Development (Learning & Building)**
+- **Angular** (v21) — components, routing, services, reactive state with RxJS `BehaviorSubject`, standalone components
+- **TypeScript** — interfaces, decorators, strict typing
+- **Node.js + Express** — REST API design, CRUD operations, JSON file persistence
+- **HTML / CSS** — responsive layouts, component-scoped styles
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🎂 Birthday Organizer — Full Stack Angular App
-> A complete fullstack application for managing and tracking birthdays of people you care about.
+### 🎂 Birthday Organizer
+> Angular 21 · TypeScript · Node.js · Express · RxJS
 
-**What it does:**
-- Add, edit, delete, and search through contacts with name, nickname, DOB, and photo
-- Sort contacts by name or birthday; calculate ages dynamically
-- Import/export data as JSON for portability
-- Persistent backend storage via a custom **Node.js + Express REST API**
-- Reactive state management using **RxJS BehaviorSubject** with graceful fallback to local assets when offline
-- Retry logic on failed backend sync — resilient by design
+A fullstack birthday management app with a full CRUD backend and a reactive Angular frontend.
 
-**Tech:** `Angular 21` · `TypeScript` · `Node.js` · `Express` · `RxJS` · `Vite`
+- Add, edit, delete, and search people with their birthday info and photos
+- Navbar shows **upcoming birthdays (next 30 days)** and **recent birthdays (last 7 days)** with smart dropdown alerts
+- Angular services using `BehaviorSubject` for real-time reactive data flow
+- Node.js/Express REST API with JSON file persistence and retry logic on failed sync
+- Import/export data as JSON; fallback to local assets if backend is unavailable
+
+**Stack highlights:** Angular Router · HttpClient · FormsModule · Express · CORS · Vite · TypeScript
 
 ---
 
-### 📐 Angular Practice App — Angular 21 Playground
-> A hands-on learning project built with the latest Angular features.
+### 🅰️ Practice Angular App
+> Angular 21 · TypeScript · Vite · Vitest
 
-- Scaffolded with **Angular CLI v21** using standalone components architecture
-- Configured with **Prettier** for consistent code formatting
-- Testing setup with **Vitest**
-- Serves as a personal sandbox for exploring Angular signals, routing, and component patterns
+A personal sandbox for learning and experimenting with Angular concepts — routing, signals, component architecture, and testing with Vitest. This is where I break things and figure out how they work.
 
-**Tech:** `Angular 21` · `TypeScript` · `Vitest` · `Prettier`
+---
+
+### 📄 Internship Letter — Condigence LLP
+> Documentation
+
+Official internship documentation from my time at Condigence LLP, reflecting my professional design background.
 
 ---
 
 ### 💧 NeerSeva — Water Management & Service Platform *(Design Project)*
-> End-to-end UI/UX design for a civic water management application.
+> Figma · Adobe XD
 
-- Designed the complete UI for a platform streamlining water service requests and monitoring
-- Created user flows, wireframes, and high-fidelity prototypes for a seamless citizen experience
-- Improved accessibility by **30%** through simplified navigation and cleaner visual hierarchy
-- Delivered in **Figma** with full responsive layout coverage
-
-**Tools:** `Figma` · `Adobe XD` · `User Research` · `Journey Mapping`
+Designed the complete UI for a water management app that streamlines service requests and real-time monitoring for users. Created user flows, wireframes, and high-fidelity prototypes — improved accessibility by 30% through simplified navigation and clear visual hierarchy.
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Tech & Tools
 
-**UI/UX Designer → Fullstack Developer** &nbsp;·&nbsp; **Condigence** &nbsp;·&nbsp; *2022 – Present*
-
-- Collaborated with developers and product managers to design intuitive, user-focused interfaces
-- Conducted user research, wireframing, and usability testing to improve product engagement
-- Designed responsive prototypes in Figma and Adobe XD ensuring brand consistency
-- Built fullstack Angular applications with Node.js/Express backends
-- Improved design workflows and documentation for faster iteration across teams
-
----
-
-## 🎯 UX Expertise
-
-```
-Wireframing & Prototyping     ████████████████████  Expert
-User Research & Testing       ██████████████████    Advanced
-Responsive Layout Design      ████████████████████  Expert
-Design Systems                ███████████████       Proficient
-Accessibility & Usability     ████████████████████  Expert
-Journey Mapping               ██████████████████    Advanced
-```
+| Area | Tools |
+|---|---|
+| Design | Figma · Adobe XD · Adobe Illustrator · Photoshop |
+| Frontend | Angular · TypeScript · HTML · CSS · RxJS |
+| Backend | Node.js · Express · REST APIs |
+| Build Tools | Vite · Angular CLI · npm |
+| Testing | Vitest |
+| UX Process | Wireframing · Prototyping · User Research · Journey Mapping |
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 How I Use AI
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+I use AI as a learning accelerator — not a shortcut. When building projects, I use AI tools to understand Angular patterns faster, debug TypeScript, explore best practices, and ship ideas I wouldn't be able to build alone yet. I believe the best developers combine deep curiosity with smart tooling, and I'm building both.
 
 ---
 
-## 📫 Let's Connect
+## 📚 Currently Learning
 
-I'm actively looking for fullstack and UI/UX opportunities. If you're building something interesting or need someone who can both design and develop — let's talk.
-
-<p>
-  <a href="mailto:rohitraja229@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- Angular (deep-diving — routing, services, reactive patterns, forms)
+- REST API design with Node.js + Express
+- Bridging my design instincts with frontend implementation
+- Building AI-integrated web apps
 
 ---
 
-<p align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</i>
-</p>
+## 📬 Get in Touch
+
+- 📧 rohitraja229@gmail.com
+- 📞 +91 6205192103
+- 💼 Open to freelance UI/UX work and fullstack junior roles (remote or relocation)
+- 🗣️ Languages: English, Hindi
+
+---
+
+<p align="center"><i>"Design is how it works. Code is how it lives."</i></p>
