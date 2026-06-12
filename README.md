@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:rohitraja229@gmail.com">📧 rohitraja229@gmail.com</a> &nbsp;|&nbsp;
-  📱 +91 6205192103 &nbsp;|&nbsp;
   📍 Ranchi, Jharkhand
 </p>
 
