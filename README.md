@@ -101,7 +101,6 @@ I use AI as a learning accelerator — not a shortcut. When building projects, I
 ## 📬 Get in Touch
 
 - 📧 rohitraja229@gmail.com
-- 📞 +91 6205192103
 - 💼 Open to freelance UI/UX work and fullstack junior roles (remote or relocation)
 - 🗣️ Languages: English, Hindi
 
